@@ -47,12 +47,10 @@ class fragmentventana1 : Fragment() {
             val intent = Intent(context, Main2Activity::class.java)
             startActivity(intent);
 
-
-
-
-
-
         }
+
+
+
 }
 
 
